@@ -1,6 +1,4 @@
 # Primer Proyecto GitHub
-## Realiza un primer proyecto GitHub.
-
 
 
 ### Tiene que tener:
