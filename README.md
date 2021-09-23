@@ -2,7 +2,7 @@
 
 
 ### Tiene que tener:
-                    Una carpeta doc con el archivos pdf.
+                    Una carpeta doc con el archivo pdf.
                     Un archivo README.md.
                     Una carpeta src con todas las pruebas.
                     
